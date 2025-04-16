@@ -1,0 +1,88 @@
+## 🧠 **Overview: AWS Certified Cloud Practitioner (CLF-C02)**
+
+The **AWS Cloud Practitioner (CLF-C02)** certification is an **entry-level** certification designed for individuals seeking an overall understanding of AWS Cloud, regardless of specific technical roles. It's ideal for beginners, non-technical stakeholders, and those in sales, marketing, finance, or management who want to understand AWS at a foundational level.
+
+---
+
+## 📘 **Introduction**
+
+- **Exam Code:** CLF-C02
+- **Format:** Multiple choice, multiple response
+- **Duration:** 90 minutes
+- **Cost:** $100 USD
+- **Delivery:** Pearson VUE or online proctored
+- **Language:** English (and other supported languages)
+
+Need 70% marks to pass.
+65 questions.
+1000 marks.
+
+---
+
+## 📚 **Syllabus / Domains (CLF-C02)**
+
+The exam includes **4 domains**:
+
+### 1. **Cloud Concepts (24%)**
+
+- Benefits of cloud computing
+- Types of cloud computing (IaaS, PaaS, SaaS)
+- AWS Cloud economic aspects (e.g., cost savings, elasticity)
+
+### 2. **Security and Compliance (30%)**
+
+- AWS shared responsibility model
+- AWS IAM basics
+- Basic security support (MFA, encryption)
+- Compliance programs (e.g., HIPAA, GDPR)
+
+### 3. **Cloud Technology and Services (34%)**
+
+- Core AWS services: Compute, Storage, Networking, Database
+- AWS global infrastructure (Regions, AZs, Edge locations)
+- Billing, pricing, and support models
+
+### 4. **Billing, Pricing, and Support (12%)**
+
+- AWS Pricing Calculator
+- Free tier and billing dashboard
+- Support plans (Basic, Developer, Business, Enterprise)
+
+---
+
+## 📆 **Study Timeline (4 Weeks Plan)**
+
+You can tweak this based on your pace. Here’s a weekly breakdown:
+
+### **Week 1: Cloud Concepts + Exam Familiarity**
+
+- Learn cloud computing basics
+- Explore AWS global infrastructure
+- Understand the Shared Responsibility Model
+- **Resources:** AWS Cloud Practitioner Essentials course, whitepapers
+
+### **Week 2: Core AWS Services & Technology**
+
+- Dive into EC2, S3, RDS, Lambda, VPC, CloudFront
+- Understand high availability and fault tolerance
+- **Labs:** Hands-on with free-tier services on AWS Console
+
+### **Week 3: Security, Pricing & Billing**
+
+- IAM, encryption, CloudTrail, AWS Config
+- AWS budgets, cost explorer
+- Learn about support plans and pricing models
+
+### **Week 4: Review + Practice Tests**
+
+- Go over all domains again
+- Take 2-3 full-length practice exams
+- Focus on weak areas using flashcards or notes
+
+---
+
+## 🛠️ **Recommended Resources**
+
+- [AWS Skill Builder – Cloud Practitioner Essentials (Free)](https://skillbuilder.aws/)
+- [AWS Certified Cloud Practitioner Official Practice Question Set (Free)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+- https://www.youtube.com/watch?v=NhDYbskXRgc&list=PPSV&t=730s
