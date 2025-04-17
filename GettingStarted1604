@@ -1,0 +1,89 @@
+Module 1: Introduction to Amazon Web Services
+
+1. What is a client-server model?
+   => In computing, a client can be a web browser or desktop application that a person interacts with to make requests to computer servers. A server can be services, such as Amazon Elastic Compute Cloud (Amazon EC2) – a type of virtual server.
+
+2. Cloud Computing
+   Deployment models for cloud computing
+
+When selecting a cloud strategy, a company must consider factors such as required cloud application components, preferred resource management tools, and any legacy IT infrastructure requirements.
+
+The three cloud computing deployment models are cloud-based, on-premises, and hybrid.
+
+To learn more about deployment models, choose each of the following three tabs.
+
+==Cloud-based deployment==
+Run all parts of the application in the cloud.
+Migrate existing applications to the cloud.
+Design and build new applications in the cloud.
+In a cloud-based deployment model, you can migrate existing applications to the cloud, or you can design and build new applications in the cloud. You can build those applications on low-level infrastructure that requires your IT staff to manage them. Alternatively, you can build them using higher-level services that reduce the management, architecting, and scaling requirements of the core infrastructure.
+For example, a company might create an application consisting of virtual servers, databases, and networking components that are fully based in the cloud.
+
+==On-premises deployment==
+Deploy resources by using virtualization and resource management tools.
+Increase resource utilization by using application management and virtualization technologies.
+On-premises deployment is also known as a private cloud deployment. In this model, resources are deployed on premises by using virtualization and resource management tools.
+For example, you might have applications that run on technology that is fully kept in your on-premises data center. Though this model is much like legacy IT infrastructure, its incorporation of application management and virtualization technologies helps to increase resource utilization.
+
+==Hybrid deployment==
+Connect cloud-based resources to on-premises infrastructure.
+Integrate cloud-based resources with legacy IT applications.
+In a hybrid deployment, cloud-based resources are connected to on-premises infrastructure. You might want to use this approach in a number of situations. For example, you have legacy applications that are better maintained on premises, or government regulations require your business to keep certain records on premises.
+For example, suppose that a company wants to use cloud services that can automate batch data processing and analytics. However, the company has several legacy applications that are more suitable on premises and will not be migrated to the cloud. With a hybrid deployment, the company would be able to keep the legacy applications on premises while benefiting from the data and analytics services that run in the cloud.
+
+---
+
+## 🌩️ **Benefits of Cloud Computing**
+
+Cloud computing offers a wide range of business benefits. When deciding on a cloud approach, companies often consider how it can help them **reduce costs, improve efficiency, and scale globally**. Let’s explore six major benefits in detail:
+
+---
+
+### 1. **Trade Upfront Expense for Variable Expense**
+
+- **Traditional Approach:** Requires large upfront investments in data centers, servers, and infrastructure before they are even used.
+- **Cloud Approach:** You **only pay for what you use**, avoiding heavy initial costs.
+- **Business Benefit:** Helps companies save money and scale efficiently while enabling innovation without major financial risks.
+
+---
+
+### 2. **Stop Spending Money to Run and Maintain Data Centers**
+
+- Managing on-premises data centers involves **significant time, cost, and effort** to maintain infrastructure and hardware.
+- With cloud computing, these responsibilities are offloaded to the cloud provider.
+- **Business Benefit:** Teams can focus more on **developing applications** and serving customers rather than maintaining physical infrastructure.
+
+---
+
+### 3. **Stop Guessing Capacity**
+
+- Traditionally, companies had to estimate and purchase infrastructure capacity ahead of time—often leading to **underutilization or resource shortages**.
+- Cloud computing allows you to **scale resources up or down** based on demand.
+- **Example:** Use Amazon EC2 instances only when needed, and pay only for compute time used.
+- **Business Benefit:** Flexibility to match resources to current needs without waste.
+
+---
+
+### 4. **Benefit from Massive Economies of Scale**
+
+- Cloud providers like AWS serve hundreds of thousands of customers.
+- This large-scale operation allows them to **offer lower variable costs** due to high volume.
+- **Business Benefit:** Access to **cost-efficient infrastructure** and services that would be more expensive if developed in-house.
+
+---
+
+### 5. **Increase Speed and Agility**
+
+- In a traditional setup, it might take **weeks** to acquire and configure new hardware.
+- Cloud computing provides **on-demand access** to resources in **minutes**.
+- **Business Benefit:** Accelerates development and experimentation, encouraging innovation and faster time to market.
+
+---
+
+### 6. **Go Global in Minutes**
+
+- The **global footprint** of AWS allows companies to deploy applications **worldwide** quickly.
+- AWS data centers around the world ensure **low-latency access** for users, no matter where they are located.
+- **Business Benefit:** Reach global customers faster and more reliably, without setting up physical infrastructure in every region.
+
+---
